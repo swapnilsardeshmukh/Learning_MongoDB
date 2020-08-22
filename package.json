@@ -1,0 +1,15 @@
+{
+  "name": "fruitsprojects",
+  "version": "1.0.0",
+  "description": "Done using Native MonogDb Driver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swapnil Sardeshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0"
+  }
+}
