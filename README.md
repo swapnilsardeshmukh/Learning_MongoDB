@@ -1,4 +1,7 @@
 # Learning_Mongo
+
+alias mongod="/c/Program\ files/MongoDB/Server/4.0/bin/mongod.exe"
+alias mongo="/c/Program\ Files/MongoDB/Server/4.0/bin/mongo.exe"
  MongoDB with help of Native MongoDb Driver and Mongoose
  
  run 
